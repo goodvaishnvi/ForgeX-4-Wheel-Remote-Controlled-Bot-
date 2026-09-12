@@ -53,14 +53,6 @@ A 16×2 I2C LCD displays the current movement status and motor speed.
 | CH5 | Elbow Movement |
 | CH6 | Gripper |
 
-**##👥 Team Members****
-
-Vaishnavi Surwase
-Sharwani Sawant
-Sanskar Malore
-Bhoomi Oswal
-Prathamesh
-
 ## 📂 Project Structure
 
 ```text
